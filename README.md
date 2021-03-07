@@ -1,1 +1,1 @@
-https://aliya-kz.github.io/rsschool-cv/cv
+https://aliya-kz.github.io/rsschool-cv/
