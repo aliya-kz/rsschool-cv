@@ -1,1 +1,1 @@
-https://github.com/aliya-kz/clean-code-s1e1
+https://github.com/aliya-kz/rsschool-cv
